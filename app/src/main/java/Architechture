@@ -1,0 +1,16 @@
+Requirements: App to fetch current price for Bitcoin from live stream, and show it on graph.
+
+Dagger Dependencies:
+Network module
+App/Context module
+
+Architechture:
+MVP
+
+Presenter to load model data objects from retrofit into views.
+
+View: To show graph
+
+Model: POJO
+
+

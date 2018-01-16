@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Challenge</string>
+    <string name="link">Link</string>
+    <string name="no_images">Oops Can\'t find images for that query</string>
+</resources>
